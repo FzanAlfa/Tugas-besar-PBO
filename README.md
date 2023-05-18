@@ -1,7 +1,7 @@
 # Judul Game
-T-Rex Runner
+Folkit and Rocca
 # Deskripsi game
-Game Dino atau "T-Rex Runner" adalah Game yang memiliki konsep yang cukup sederhana: pemain mengendalikan seekor dinosaurus yang berlari dan diwajibkan untuk menghindari rintangan-rintangan seperti kaktus dan burung-burung yang terbang rendah. 
+Folkit and Rocca adalah Game yang memiliki konsep yang cukup sederhana: pemain mengendalikan seekor rubah atau rakun yang berlari dan diharuskan untuk menghindari rintangan-rintangan seperti kaktus dan burung-burung yang terbang rendah. 
 Pada game ini terdapat dua karakter yang memiliki kemampuan Power-up yang berbeda. dan masing masing karakter memiliki 3 nyawa agar player kebih mudah memainkannya
 # Cara bermain
 -
