@@ -6,9 +6,7 @@ Pada game ini terdapat dua karakter yang memiliki kemampuan Power-up yang berbed
 # Cara bermain
 -
 # Dependensi paket (library) yang digunakan
--Pygame
--random
--abc
+Pygame, random, abc
 
 # UML DIAGRAM
 -
