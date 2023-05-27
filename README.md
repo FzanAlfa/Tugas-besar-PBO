@@ -19,7 +19,7 @@ Ketika menekan tombol "play" pemain akan diarahkan untuk memilih salah satu kara
 | Name | NIM | Tugas | Github|
 | :---: | :---: | :---: | :---: |
 | Muhammad Faisal Arnur                 | 121140227 | Programmer | baksobundar |
-| Muhammad Ihsanuddin Faruq                 | 121140214 | Designer | Faruq121140214 |
+| Muhammad Ihsanuddin Faruq                 | 121140214 |Faruq121140214 | Designer |
 | Fauzan alfa abhista                   | 121140217 | Programmer   | Designer|
 | Indah mutiara        | 121140158 | Designer | Indhmutiara |
 | Mohammad Hisyam Alif Setiawan | 121140131 | Designer | hisem99 |
