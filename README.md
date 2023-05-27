@@ -13,7 +13,8 @@ Ketika menekan tombol "play" pemain akan diarahkan untuk memilih salah satu kara
 - -abc
 
 # UML DIAGRAM
--
+![3](https://github.com/FzanAlfa/Tugas-besar-PBO/assets/127025601/89b50488-e1b4-435f-af69-d52b5448b963)
+
 # Konstributor aplikasi
 | Name | NIM | Tugas | Github|
 | :---: | :---: | :---: | :---: |
